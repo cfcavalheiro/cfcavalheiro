@@ -1,7 +1,7 @@
 ## Hallo, ich bin Cris. Freut mich!
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cfcavalheiro&hide=contribs,issues&count_private=true&show_icons=true&theme=synthwave">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&langs_count=6&theme=synthwave">
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=cfcavalheiro&hide=contribs,issues&count_private=true&show_icons=true&theme=synthwave">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&langs_count=6&theme=synthwave">
 </div>
 
 ##
